@@ -1,0 +1,362 @@
+{
+  "project_info": {
+    "project_number": "999104674185",
+    "project_id": "rajasthan-high-court",
+    "storage_bucket": "rajasthan-high-court.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999104674185:android:dd52200d08051bbeb18958",
+        "android_client_info": {
+          "package_name": "com.geekologix.rajasthanhighcourt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999104674185-0bpg53afko7hht8anc1cnp8aka08e5u8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekologix.rajasthanhighcourt",
+            "certificate_hash": "ed0098a779775d2898339c2f52cd74723285d427"
+          }
+        },
+        {
+          "client_id": "999104674185-0ec9mrabau4se1i65goq8cge2g315l26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekologix.rajasthanhighcourt",
+            "certificate_hash": "75c5eb1a5cac21e4063537ef56310a695bc0a953"
+          }
+        },
+        {
+          "client_id": "999104674185-0lklvrjp242lp3fiee8vqtcegvu0qvln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekologix.rajasthanhighcourt",
+            "certificate_hash": "dddda2af809027aa62ae3af65d148d43c8f6b952"
+          }
+        },
+        {
+          "client_id": "999104674185-7p3ro6g32vgei5fnl51sd0j4a7vjuntf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekologix.rajasthanhighcourt",
+            "certificate_hash": "0a38606fe8e6d80a2ef44f6d3fc526fcb53fe647"
+          }
+        },
+        {
+          "client_id": "999104674185-8f0n6ggnjv5h7cg7lv2dhja9vl40al86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekologix.rajasthanhighcourt",
+            "certificate_hash": "35991a5c974f5f93a9e414fb295c5684410a6674"
+          }
+        },
+        {
+          "client_id": "999104674185-kjk5isu83cmjcsr1mknn932hspedotbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekologix.rajasthanhighcourt",
+            "certificate_hash": "e45c8ff741774c5ab8f77474675ad65bf9a7fa9d"
+          }
+        },
+        {
+          "client_id": "999104674185-ljfnoqhj5d7cvkka04miuh8msn8bi1gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekologix.rajasthanhighcourt",
+            "certificate_hash": "a45d6c870618a0141525dc7d2cc84b72f0e68a72"
+          }
+        },
+        {
+          "client_id": "999104674185-to7e2c64vm5dtgh8effgnq3l1ukce4av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekologix.rajasthanhighcourt",
+            "certificate_hash": "acf04e77da71314b36fc039ba5b5cb752c38052c"
+          }
+        },
+        {
+          "client_id": "999104674185-vualbnkr092bg1ijn2rpbesve488ou8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekologix.rajasthanhighcourt",
+            "certificate_hash": "f8899932f2c821447bb216856c179bf29b51f353"
+          }
+        },
+        {
+          "client_id": "999104674185-dr2r3h0jlm82ut600s0t5h7m3fr4kgg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHcI56aYy1a6wDTw-DYYPrqFDrFhuQ-RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999104674185-dr2r3h0jlm82ut600s0t5h7m3fr4kgg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999104674185-kr902i0crat2mo9upu5mn8erfqf7k3ic.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.haeloapp.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999104674185:android:51303db56336513cb18958",
+        "android_client_info": {
+          "package_name": "com.haelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999104674185-8rb04r0o3hsdcfs1v0dn7veobmdmli7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haelo",
+            "certificate_hash": "e45c8ff741774c5ab8f77474675ad65bf9a7fa9d"
+          }
+        },
+        {
+          "client_id": "999104674185-jau53oo48d7f6vinrvfdp278193eho56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haelo",
+            "certificate_hash": "acf04e77da71314b36fc039ba5b5cb752c38052c"
+          }
+        },
+        {
+          "client_id": "999104674185-so8rcuvdh6acr4grso1711vi1tu1q89g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haelo",
+            "certificate_hash": "35991a5c974f5f93a9e414fb295c5684410a6674"
+          }
+        },
+        {
+          "client_id": "999104674185-vkrrtcrntuom3n3mbac1aincjpb5qkrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haelo",
+            "certificate_hash": "75c5eb1a5cac21e4063537ef56310a695bc0a953"
+          }
+        },
+        {
+          "client_id": "999104674185-dr2r3h0jlm82ut600s0t5h7m3fr4kgg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHcI56aYy1a6wDTw-DYYPrqFDrFhuQ-RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999104674185-dr2r3h0jlm82ut600s0t5h7m3fr4kgg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999104674185-kr902i0crat2mo9upu5mn8erfqf7k3ic.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.haeloapp.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999104674185:android:3f0574ff194cc2dab18958",
+        "android_client_info": {
+          "package_name": "com.haeloapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999104674185-9ctutjcd1ojgft47nk5fpgflu3equ71u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp",
+            "certificate_hash": "75c5eb1a5cac21e4063537ef56310a695bc0a953"
+          }
+        },
+        {
+          "client_id": "999104674185-hcqq00g57sl5rp271lbupvglq9thuqbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp",
+            "certificate_hash": "e45c8ff741774c5ab8f77474675ad65bf9a7fa9d"
+          }
+        },
+        {
+          "client_id": "999104674185-inu93kfmigjikvda573nkcc7gdb6gp19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp",
+            "certificate_hash": "0a38606fe8e6d80a2ef44f6d3fc526fcb53fe647"
+          }
+        },
+        {
+          "client_id": "999104674185-kd9l5g6atig64kldkp2kt4crf10euone.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp",
+            "certificate_hash": "dddda2af809027aa62ae3af65d148d43c8f6b952"
+          }
+        },
+        {
+          "client_id": "999104674185-ko1sfmf07v7p2bcj9o31isc3cuddjfch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp",
+            "certificate_hash": "a45d6c870618a0141525dc7d2cc84b72f0e68a72"
+          }
+        },
+        {
+          "client_id": "999104674185-n2acv6c6ihe2fc393hck6oi0llnflgle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp",
+            "certificate_hash": "00c7fdd1e4ef97ffe67de9733d3fdab01e7f40bc"
+          }
+        },
+        {
+          "client_id": "999104674185-rtfaaolrc249rsguqq4d382fluvq4pl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp",
+            "certificate_hash": "acf04e77da71314b36fc039ba5b5cb752c38052c"
+          }
+        },
+        {
+          "client_id": "999104674185-ufojsog0lassr3cbo8j840rougua5dhg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp",
+            "certificate_hash": "a98c92c001c8d2131e69edecb10c179fa0a7c377"
+          }
+        },
+        {
+          "client_id": "999104674185-vlhn7rjn5vilj8dplv8uahvrn71l9d6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp",
+            "certificate_hash": "35991a5c974f5f93a9e414fb295c5684410a6674"
+          }
+        },
+        {
+          "client_id": "999104674185-dr2r3h0jlm82ut600s0t5h7m3fr4kgg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHcI56aYy1a6wDTw-DYYPrqFDrFhuQ-RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999104674185-dr2r3h0jlm82ut600s0t5h7m3fr4kgg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999104674185-kr902i0crat2mo9upu5mn8erfqf7k3ic.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.haeloapp.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999104674185:android:761714d6b6e9d152b18958",
+        "android_client_info": {
+          "package_name": "com.haeloapp.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999104674185-0j8evp4ernf4m35sh8d5jemopr9b534q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp.dev",
+            "certificate_hash": "e45c8ff741774c5ab8f77474675ad65bf9a7fa9d"
+          }
+        },
+        {
+          "client_id": "999104674185-bn7vdq8dqrbk95j12f91euqner4l8gtt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp.dev",
+            "certificate_hash": "00c7fdd1e4ef97ffe67de9733d3fdab01e7f40bc"
+          }
+        },
+        {
+          "client_id": "999104674185-nc677giu3rgg7f0vbecqkdqutcf5q6ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp.dev",
+            "certificate_hash": "35991a5c974f5f93a9e414fb295c5684410a6674"
+          }
+        },
+        {
+          "client_id": "999104674185-r1eco2gfbht95c8nn2ntcqjhujfpl9f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haeloapp.dev",
+            "certificate_hash": "dddda2af809027aa62ae3af65d148d43c8f6b952"
+          }
+        },
+        {
+          "client_id": "999104674185-dr2r3h0jlm82ut600s0t5h7m3fr4kgg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHcI56aYy1a6wDTw-DYYPrqFDrFhuQ-RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999104674185-dr2r3h0jlm82ut600s0t5h7m3fr4kgg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999104674185-kr902i0crat2mo9upu5mn8erfqf7k3ic.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.haeloapp.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

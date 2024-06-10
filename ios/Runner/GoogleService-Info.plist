@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>999104674185-qf2vj977o8d0e159nrnmol1doeffp0as.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.999104674185-qf2vj977o8d0e159nrnmol1doeffp0as</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>999104674185-0bpg53afko7hht8anc1cnp8aka08e5u8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDpZlX-N5A_ypj-2DX7klkmCqKnzxsLrBY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>999104674185</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.haelo.haeloapp</string>
+	<key>PROJECT_ID</key>
+	<string>rajasthan-high-court</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rajasthan-high-court.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:999104674185:ios:74c2036fac949801b18958</string>
+</dict>
+</plist>
